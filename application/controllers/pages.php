@@ -16,5 +16,6 @@ class Pages extends CI_Controller {
 	  $this->load->view('pages/'.$page, $data);
 	  /* $this->load->view('templates/footer', $data);*/
 	  
+	  
 	  }
 }
