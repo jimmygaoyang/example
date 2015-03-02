@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+   <meta charset="UTF-8"></meta>
 	<title><?php echo $title?>ECOOK</title>
 	<link rel="stylesheet" type="text/css" href="/htdocs/bootstrap/css/bootstrap.min.css">
 	<script type="text/javascript" src="/htdocs/js/jquery-2.1.3.min.js"></script>
@@ -20,7 +21,7 @@
 
    <div class="row">
 
-      <div class="col-sm-3 col-md-6 col-lg-4"  style="background-color: #dedef8; box-shadow: 
+      <div class="col-sm-3 col-md-6 col-lg-8"  style="background-color: #dedef8; box-shadow: 
          inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
             eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
@@ -48,9 +49,9 @@
          </p>
    </div>
 </div>
-	<h2>ÕâÊÇ±êÌâ</h2>
-	<p>ÕâÊÇÒ»¸ö¶ÎÂä</p>
-	<p>ÕâÊÇÁíÒ»¸ö¶ÎÂä</p>
-	<button>µã»÷ÕâÀï</button>
+	<h2>è¿™æ˜¯æ ‡é¢˜</h2>
+	<p>è¿™æ˜¯ä¸€ä¸ªæ®µè½</p>
+	<p>è¿™æ˜¯å¦ä¸€ä¸ªæ®µè½</p>
+	<button>ç‚¹å‡»è¿™é‡Œ</button>
 </body>
 </html>
